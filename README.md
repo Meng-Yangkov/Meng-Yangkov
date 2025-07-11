@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack
 
 - **Frontend:** React, HTML, CSS, JavaScript, Tailwind, Bootstrap  
-- **Backend:** Node.js, Express, MySQL, PosgreSQL 
+- **Backend:** Node.js, Express, MySQL, PosgreSQL, MongoDB
 - **Tools:** Git, GitHub, Vercel, Docker (learning)  
 - **Systems:** Linux (Ubuntu, Arch, Red Hat)  
 - **Design:** Figma, Adobe XD
