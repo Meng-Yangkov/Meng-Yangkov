@@ -52,7 +52,6 @@ I code because I believe tech can change lives — including mine.
 ## 📫 Connect with Me
 
 - 🌍 Website: [phengmengheak.site](https://phengmengheak.site)  
-- 💼 LinkedIn: [linkedin.com/in/YOURNAME](#) *(add your link here)*  
-- 📧 Email: youremail@example.com *(replace with yours)*
-
+- 💼 LinkedIn: https://www.linkedin.com/in/mengheak-pheng-598442354/
+- 📧 Email: mengheakpheng9@gmail.com
 ---
