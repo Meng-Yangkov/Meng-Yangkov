@@ -4,9 +4,6 @@
 🌱 Passionate about building real-world web & mobile applications
 
 ---
-
-## 🚀 Tech Stack
-
 ## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -31,7 +28,7 @@
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
 
-## 🧠 Currently Learning
+## 🚀 Currently Learning
 
 - React Hooks (effect, context)
 - REST APIs & CRUD operations
