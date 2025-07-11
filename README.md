@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mengheak Pheng (Meng)
+# 👋 Hey, I'm Mengheak Pheng
 
 🎓 MIS student & 💻 Aspiring Software Engineer  
 🛠️ Focused on Web & Mobile Development  
