@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mengheak Pheng
 
-🎓 MIS student | 💻 Aspiring Full-Stack Software Engineer  
+🎓 MIS student | 💻 Aspiring Software Engineer  
 🌱 Passionate about building real-world web & mobile applications
 
 ---
