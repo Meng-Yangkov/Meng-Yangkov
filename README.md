@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Mengheak Pheng
 
-🎓 MIS student
-🌱 Passionate about building real-world web & mobile applications
+🎓 MIS student | Just a tech
 
 ---
 ## 💻 Tech Stack:
