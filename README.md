@@ -37,12 +37,6 @@
 
 ---
 
-## 📂 Projects
-
-- **Motivation Journal** – Full-stack journal app (React + Node + MySQL)
-- **Cartoon Finder** – Simple search UI using custom dataset
-- **E-commerce Template** – Responsive frontend with product filter
-
 👉 [See all on GitHub](https://github.com/Meng-Yangkov)
 
 ---
