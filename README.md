@@ -25,17 +25,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
-
-## 🚀 Currently Learning
-
-- React Hooks (effect, context)
-- REST APIs & CRUD operations
-- Full-stack app deployment
-- Clean architecture patterns
-- Data structures: stack, queue, recursion
-
----
-
 👉 [See all on GitHub](https://github.com/Meng-Yangkov)
 
 ---
