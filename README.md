@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mengheak Pheng
+# 👋 Hey, I'm Pheng Mengheak
 
 🎓 MIS student | Just a tech
 
