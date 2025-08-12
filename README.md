@@ -1,6 +1,6 @@
 # Yo, I'm Pheng Mengheak
 
-🎓 MIS student | Just a tech
+🎓 Software Development Student
 
 ---
 ## 💻 Tech Skills:
