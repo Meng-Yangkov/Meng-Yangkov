@@ -24,9 +24,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-
-👉 [See all on GitHub](https://github.com/Meng-Yangkov)
-
 ---
 
 ## 📫 Connect with Me
