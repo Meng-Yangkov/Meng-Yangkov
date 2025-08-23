@@ -1,6 +1,5 @@
 <h1 align="center">Pheng Mengheak</h1>
-<p align="center">Aspiring Software Engineer | DevOps & Database Intern</p>
-
+<p align="center">DevOps & Database Intern</p>
 ### About Me
 
 I am a driven and passionate intern building foundational skills in backend systems and infrastructure. Through my hands-on experience in database management and DevOps, I am learning to build and maintain resilient, scalable applications. My goal is to leverage this experience to grow into a full-time software engineering role where I can contribute to impactful projects.
