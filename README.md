@@ -1,9 +1,7 @@
 <h1 align="center">Pheng Mengheak</h1>
 <p align="center">
-  🚀 DevOps Engineer • Backend Builder • System Resetter<br>
-  🛠️ PostgreSQL Clusters • Node.js Automation • Linux Troubleshooter
+  Linux user -_-
 </p>
-
 ---
 
 ## 🧠 Tech Stack
