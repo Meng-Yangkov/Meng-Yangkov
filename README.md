@@ -1,9 +1,9 @@
 <h1 align="center">Pheng Mengheak</h1>
-<p align="center">Software Engineer | Backend & DevOps</p>
+<p align="center">Aspiring Software Engineer | DevOps & Database Intern</p>
 
-<p align="center">
-  Building resilient systems with a focus on automation and high-availability.
-</p>
+### About Me
+
+I am a driven and passionate intern building foundational skills in backend systems and infrastructure. Through my hands-on experience in database management and DevOps, I am learning to build and maintain resilient, scalable applications. My goal is to leverage this experience to grow into a full-time software engineering role where I can contribute to impactful projects.
 
 ---
 
@@ -39,12 +39,12 @@
 
 ---
 
-### Areas of Expertise
+### Key Skills & Focus Areas
 
--   **Database Clustering:** PostgreSQL high-availability with Pgpool-II & automated failover.
--   **Infrastructure Automation:** Automating operational tasks with Node.js & Bash.
--   **System Administration:** Linux troubleshooting, containerization with Docker, and configuration management.
--   **Engineering Philosophy:** Prioritizing robust, well-documented solutions over quick fixes.
+-   **Database Management:** Gaining experience with PostgreSQL clusters, including concepts like connection pooling with Pgpool-II and high-availability setups.
+-   **Infrastructure Automation:** Developing automation scripts using Node.js and Bash to support infrastructure tasks and streamline operational workflows.
+-   **Linux & Containerization:** Hands-on experience in Linux environments, including system troubleshooting and preparing applications for containerization with Docker.
+-   **Engineering Principles:** A strong believer in writing clean, maintainable code and creating clear documentation to build robust, long-term solutions.
 
 ---
 
