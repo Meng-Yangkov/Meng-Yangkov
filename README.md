@@ -2,9 +2,8 @@
 <p align="center">
   Linux user -_-
 </p>
----
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Languages & Scripting**  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
