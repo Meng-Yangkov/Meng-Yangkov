@@ -77,16 +77,4 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaxjandro7&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaxjandro7&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alaxjandro7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
 <p align="center"><sub><code>“No bio. Just build.”</code></sub></p>
