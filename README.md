@@ -1,11 +1,9 @@
 <h1 align="center">Pheng Mengheak</h1>
-<p align="center">Software Engineer | Backend & Infrastructure Specialist</p>
+<p align="center">Software Engineer | Backend & DevOps</p>
 
----
-
-### About Me
-
-I am a Software Engineer with a strong focus on building resilient backend systems and automating infrastructure. My expertise lies in designing high-availability database clusters, developing automation scripts for operational tasks, and managing Linux-based environments. I am passionate about creating robust, maintainable solutions and believe in the power of clear documentation to support long-term success.
+<p align="center">
+  Building resilient systems with a focus on automation and high-availability.
+</p>
 
 ---
 
@@ -41,12 +39,12 @@ I am a Software Engineer with a strong focus on building resilient backend syste
 
 ---
 
-### Core Competencies
+### Areas of Expertise
 
--   **High-Availability Database Management:** Designing and implementing resilient PostgreSQL clusters with Pgpool-II for connection pooling, load balancing, and automatic failover using watchdog mechanisms.
--   **Infrastructure Automation:** Leveraging Node.js and Bash scripting to automate deployment processes, configuration synchronization, and other critical infrastructure management tasks.
--   **Linux System Administration:** Proficient in Linux environments, including advanced troubleshooting, system performance tuning, and preparing applications for containerization with Docker.
--   **System Design & Documentation:** Committed to building robust, long-term solutions over temporary fixes and creating clear, practical documentation to ensure system maintainability.
+-   **Database Clustering:** PostgreSQL high-availability with Pgpool-II & automated failover.
+-   **Infrastructure Automation:** Automating operational tasks with Node.js & Bash.
+-   **System Administration:** Linux troubleshooting, containerization with Docker, and configuration management.
+-   **Engineering Philosophy:** Prioritizing robust, well-documented solutions over quick fixes.
 
 ---
 
