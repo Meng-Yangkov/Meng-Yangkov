@@ -1,8 +1,4 @@
 # Yo, I'm Pheng Mengheak
-
-🎓 Software Development Student
-
----
 ## 💻 Tech Skills:
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
