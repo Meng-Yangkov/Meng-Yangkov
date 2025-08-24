@@ -8,9 +8,9 @@
 
 ---
 
-- 🔭 Currently working on **Database internship**  
-- 🌱 Learning **Kubernetes**, **SQL Server**, and **Cloud Infrastructure**  
-- 🧠 Interested in **high-availability systems**, **DevOps automation**, and **clean resets over patchwork fixes**
+- Currently working on **Database internship**  
+- Learning **Kubernetes**, **SQL Server**, and **Cloud Infrastructure**  
+- Interested in **high-availability systems**, **DevOps automation**, and **clean resets over patchwork fixes**
 
 ---
 
