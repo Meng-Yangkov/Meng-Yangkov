@@ -12,24 +12,6 @@
 - Learning **Kubernetes**, **SQL Server**, and **Cloud Infrastructure**  
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mengheak-pheng-598442354/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://t.me/heakyangkov" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40"/>
-  </a>
-  <a href="mailto:phengmengheak@outlook.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="Outlook" height="30" width="40"/>
-  </a>
-  <a href="https://phengmengheak.site" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Internet_Explorer_9_icon.svg" alt="Website" height="30" width="40"/>
-  </a>
-</p>
-
----
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px">
