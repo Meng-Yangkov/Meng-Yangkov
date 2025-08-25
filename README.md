@@ -45,7 +45,7 @@
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="40" height="40"/>
 
 <!-- Design Tools -->
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop" width="40" height="40"/>
