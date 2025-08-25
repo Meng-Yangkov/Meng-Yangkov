@@ -40,7 +40,6 @@
   <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/bash.png" alt="Bash" width="40" height="40"/>
 
 <!-- Frontend & UI -->
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" height="40"/>
