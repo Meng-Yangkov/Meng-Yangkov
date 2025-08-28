@@ -1,5 +1,5 @@
 <h1 align="center">Kiddo, Pheng Mengheak</h1>
-<h3 align="center">DevOps && Database Intern</h3>
+<h3 align="center">DevOps && Database Engineer Intern</h3>
 
 <p align="center">
   Absolutely hate backend systems, infrastructure automation, and building resilient databases.<br>
