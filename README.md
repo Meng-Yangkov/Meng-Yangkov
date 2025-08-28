@@ -2,7 +2,7 @@
 <h3 align="center">DevOps && Database Intern</h3>
 
 <p align="center">
-  Passionate about backend systems, infrastructure automation, and building resilient databases.<br>
+  Absolutely hate backend systems, infrastructure automation, and building resilient databases.<br>
   Currently exploring PostgreSQL clusters, containerization, and scripting workflows with Bash & Node.js.
 </p>
 
