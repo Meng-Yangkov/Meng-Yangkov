@@ -37,13 +37,11 @@
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" width="40" height="40"/>
 
 <!-- DevOps & Infra -->
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="40" height="40"/>
 
