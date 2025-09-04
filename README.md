@@ -8,7 +8,7 @@
 
 ---
 
-- Currently working on **Database internship**  
+- Currently working on **DevOps internship**  
 - Learning **Kubernetes**, **SQL Server**, and **Cloud Infrastructure**  
 
 ---
