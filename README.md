@@ -15,9 +15,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px">
-
-## 💻 Tech Stack
-
 <div align="center">
 
   <!-- Programming Languages -->
