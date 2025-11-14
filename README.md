@@ -2,8 +2,8 @@
 
 **`DevOps Intern & Future Cloud Engineer`**
 
-"Absolutely hate backend systems, infrastructure automation, and building resilient databases."
-"Currently exploring PostgreSQL clusters, containerization, and scripting workflows with Bash & Node.js.".
+<p>"Absolutely hate backend systems, infrastructure automation, and building resilient databases."
+"Currently exploring PostgreSQL clusters, containerization, and scripting workflows with Bash & Node.js."</p>
 ---
 
 <h3 align="left" style="margin-bottom: 12px;">💼 Languages and Tools:</h3>
