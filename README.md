@@ -9,7 +9,7 @@
 - Currently working on **DevOps internship** ---
 
 <h3 align="left" style="margin-bottom: 12px;">💼 Languages and Tools:</h3>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px; margin-right: 20px">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="C" title="C"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" title="C++"/>
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="C#" title="C#"/>
