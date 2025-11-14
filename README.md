@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=xd" height="30" alt="Adobe XD" title="Adobe XD"/>
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux" title="Linux"/>
+  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
 ---
