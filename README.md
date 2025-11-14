@@ -20,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="Bootstrap" title="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="Sass" title="Sass"/>
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" title="React"/>
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="Photoshop" title="Photoshop"/>
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="Illustrator" title="Illustrator"/>
