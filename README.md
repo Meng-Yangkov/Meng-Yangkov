@@ -8,7 +8,7 @@
 ---
 - Currently working on **DevOps internship**  
 ---
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;  margin-right: 10px">
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; margin-right: 10px">
