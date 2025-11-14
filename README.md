@@ -11,7 +11,7 @@
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px">
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; margin-right: 10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
