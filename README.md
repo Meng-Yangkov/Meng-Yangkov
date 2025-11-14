@@ -14,7 +14,9 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++" title="C++"/>
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="C#" title="C#"/>
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" title="TypeScript"/>
+  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="Bootstrap" title="Bootstrap"/>
