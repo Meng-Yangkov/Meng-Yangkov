@@ -1,10 +1,9 @@
-<h1 align="center">🏄‍♂️ HeakMeng</h1>
+# 🏄‍♂️ HeakMeng
 
 **`DevOps Intern & Future Cloud Engineer`**
 
 "Absolutely hate backend systems, infrastructure automation, and building resilient databases."
-"Currently exploring PostgreSQL clusters, containerization, and scripting workflows with Bash & Node.js." I plan to publish content about my journey on my [YouTube channel][youtube].
-
+"Currently exploring PostgreSQL clusters, containerization, and scripting workflows with Bash & Node.js.".
 <p align="left">
    <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/YOUR_CHANNEL_ID?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
