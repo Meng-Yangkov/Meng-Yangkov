@@ -26,7 +26,6 @@
 - 🔭 I’m currently working on **making Nginx configuration on a web proxy**.
 - 🌱 I’m currently learning everything DevOps & Cloud.
 - 💬 Ask me about **Docker, Linux, and K8s**.
-- 📫 How to reach me: [My YouTube Channel][youtube]
 
 ---
 
