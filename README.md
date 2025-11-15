@@ -1,6 +1,6 @@
 # 🏄‍♂️ HeakMeng
 
-**`DevOps Intern & Future Cloud Engineer`**
+**`Junior DevOps`**
 
 <p>"Absolutely hate backend systems, infrastructure automation, and building resilient databases."
 "Currently exploring PostgreSQL clusters, containerization, and scripting workflows with Bash & Node.js."</p>
