@@ -1,6 +1,6 @@
 # 🏄‍♂️ HeakMeng
 
-**`Junior DevOps Engineer`**
+**`DevOps Intern & Future Cloud Engineer`**
 
 <p>"Absolutely hate backend systems, infrastructure automation, and building resilient databases."
 "Currently exploring PostgreSQL clusters, containerization, and scripting workflows with Bash & Node.js."</p>
@@ -23,8 +23,7 @@
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-  <img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://www.okoone.com/wp-content/uploads/2024/06/Nginx-logo.png" />
-</div>
+  <img align="left" alt="Nginx" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 </div>
 <br />
 
