@@ -48,19 +48,3 @@
   <img align="left" alt="Nginx" height="30px" style="padding-right:10px;" src="https://wafris.org/assets/nginx-logo-dd3927d5eb272f9261e3b6cf51243ab41d7a33a702848c63c022c7b58374ae9a.png" />
 </div>
 <br />
-
-#
-
-### 📺 Latest YouTube Videos
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/YOUR_CHANNEL_ID?sub_confirmation=1)
-
-#
-
-### 📊 Stats
-
-![HeakMeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeakMeng&show_icons=true&theme=gruvbox)
-
-#
-
-[youtube]: https://youtube.com/channel/YOUR_CHANNEL_ID
