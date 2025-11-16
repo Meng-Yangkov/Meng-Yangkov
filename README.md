@@ -24,7 +24,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently learning as MIS students at <b>SETEC INSTITUTE</b>.
 - 🌱 I’m currently working as Junior DevOps.
-- 💬 Let's aake Cam great again.
+- 💬 Let's make CAM great again.
 
 ---
 
