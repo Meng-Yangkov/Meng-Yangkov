@@ -22,9 +22,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **making Nginx configuration on a web proxy**.
-- 🌱 I’m currently learning everything DevOps & Cloud.
-- 💬 Ask me about **Docker, Linux, and K8s**.
+- 🔭 I’m currently learning as MIS students at SETEC INSTITUTE.
+- 🌱 I’m currently working as Junior DevOps.
+- 💬 Let's aake Cam great again.
 
 ---
 
