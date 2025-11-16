@@ -2,7 +2,7 @@
 
 **`Junior DevOps`**
 
-<p>DevOps Intern with a passion for backend systems, infrastructure automation, and building resilient databases. Currently exploring PostgreSQL, containerization, and scripting with Bash & Node.js.</p>
+<p>A kid with a passion for backend systems, infrastructure automation, and building resilient databases. Currently exploring PostgreSQL, containerization, and scripting with Bash & Node.js.</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pheng-mengheak-598442354/" target="_blank">
