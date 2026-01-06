@@ -1,6 +1,6 @@
 # 🏄‍♂️ HeakMeng
 
-**`Junior DevOps`**
+**`Student`**
 
 <p>A kid with a passion for backend systems, infrastructure automation, and building resilient databases. Currently exploring PostgreSQL, containerization, and scripting with Bash & Node.js.</p>
 
