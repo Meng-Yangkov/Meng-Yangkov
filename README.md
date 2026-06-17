@@ -21,9 +21,9 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently learning as MIS students at <b>SETEC INSTITUTE</b>.
-- 💬 Let's make CAM great again.
+### </> About Me
+-  I’m currently learning as MIS students at <b>SETEC INSTITUTE</b>.
+- Let's make CAM great again.
 
 ---
 
