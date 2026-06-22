@@ -1,8 +1,8 @@
 # HeakMeng
 
-**`Student`**
+**`Student & Backend Developer`**
 
-<p>A kid with a passion for backend systems, infrastructure automation, and building resilient databases. Currently exploring PostgreSQL, containerization, and scripting with Bash & Node.js.</p>
+<p>A kid with a passion for backend systems, scalable infrastructure, and building resilient APIs. Currently deep-diving into <b>Java & Spring Boot</b>, while also exploring PostgreSQL, containerization, and React.</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pheng-mengheak-598442354/" target="_blank">
@@ -22,13 +22,17 @@
 ---
 
 ### </> About Me
--  I’m currently learning as MIS students at <b>SETEC INSTITUTE</b>.
-- Let's make CAM great again.
+- 🎓 I’m currently studying MIS at **SETEC INSTITUTE** and undergoing rigorous software training at **KSHRD**.
+- 💻 Shifting focus from Frontend Development towards mastering **Backend Java Engineering**.
+- 🌱 Currently learning **Spring Boot**, Dependency Injection, and Enterprise API Design.
+- 🚀 Let's make CAM great again.
 
 ---
 
 <h3 align="left" style="margin-bottom: 12px;"> /- Languages and Tools:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap;">
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
