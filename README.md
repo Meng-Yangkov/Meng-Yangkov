@@ -70,14 +70,14 @@
   <tr>
     <td align="center" width="96">
       <img src="https://ollama.com/public/ollama.png" width="38" height="38" alt="Ollama" />
-      <br /><sub><b>Ollama</b></sub>[cite: 1]
+      <br /><sub><b>Ollama</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="38" height="38" alt="LangChain" />
-      <br /><sub><b>LangChain</b></sub>[cite: 3]
+      <br /><sub><b>LangChain</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://www.designveloper.com/wp-content/uploads/2025/09/What-is-ChromaDB-1-1024x614.webp" width="38" height="38" style="object-fit: contain;" alt="ChromaDB" />
+      <img src="https://www.trychroma.com/img/chroma.svg" width="38" height="38" alt="ChromaDB" />
       <br /><sub><b>ChromaDB</b></sub>
     </td>
     <td align="center" width="96">
