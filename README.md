@@ -22,9 +22,9 @@
 ---
 
 ### [//] About Me
-* [>] Studying MIS at **SETEC INSTITUTE** and undergoing software development & AX Specialist training at **KSHRD**[cite: 1, 2, 3].
-* [>] Focusing on **Backend Java Engineering** with Spring Boot, Clean Architecture, and enterprise API design by deep dive on Microservices.
-* [>] Building local AI serving and Retrieval-Augmented Generation (RAG) pipelines using **Ollama, vLLM, ChromaDB, and LangChain**[cite: 1, 3].
+* [>] Studying MIS at **SETEC INSTITUTE** and undergoing software development & AX Specialist training at **KSHRD**.
+* [>] Focusing on **Backend Java Engineering** with Spring Boot, Clean Architecture, and Microservices.
+* [>] Building local AI serving and Retrieval-Augmented Generation (RAG) pipelines using **Ollama, vLLM, ChromaDB, and LangChain**.
 * [>] Delivering responsive, modern web interfaces via **Next.js 15, TypeScript**, and **Tailwind CSS**.
 * [>] Let's make CAM great again.
 
