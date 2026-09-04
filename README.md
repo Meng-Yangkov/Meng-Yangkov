@@ -2,7 +2,7 @@
 
 **`Student & Backend Developer`**
 
-<p>A passionate developer dedicated to backend systems, scalable architecture, and building resilient APIs. Currently deep-diving into <b>Java & Spring Boot</b>, while working across PostgreSQL, containerization, and the React/Next.js ecosystem.</p>
+<p>A passionate developer dedicated to backend systems, scalable architecture, and building resilient APIs. Deep-diving into <b>Java & Spring Boot</b>, while working across PostgreSQL, containerization, local AI serving pipelines, and the React/Next.js ecosystem.</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pheng-mengheak-598442354/" target="_blank">
@@ -21,69 +21,93 @@
 
 ---
 
-### </> About Me
-- 🎓 Studying MIS at **SETEC INSTITUTE** and undergoing software engineering training at **KSHRD**[cite: 1, 2, 3].
-- ⚙️ Focusing on **Backend Java Engineering** with Spring Boot and enterprise API patterns.
-- 🛠️ Building full-stack web applications with modern architectures and clean database design.
-- 🚀 Let's make CAM great again.
+### [//] About Me
+* [>] Studying MIS at **SETEC INSTITUTE** and undergoing software engineering training at **KSHRD**[cite: 1, 2, 3].
+* [>] Focusing on **Backend Java Engineering** with Spring Boot, Clean Architecture, and enterprise API design.
+* [>] Building local AI serving and Retrieval-Augmented Generation (RAG) pipelines using **Ollama, vLLM, ChromaDB, and LangChain**[cite: 1, 3].
+* [>] Delivering responsive, modern web interfaces via **Next.js 15, TypeScript**, and **Tailwind CSS**.
+* [>] Let's make CAM great again.
 
 ---
 
-### 🏆 Engineering Telemetry & Skills Matrix
+### [//] Leaderboard // Skills & Engineering Telemetry
 
-| Rank | Category | Core Tech Stack | Proficiency | Tier Status |
+| Rank | Domain | Technologies & Frameworks | Tier Status | Activity |
 | :---: | :--- | :--- | :---: | :---: |
-| **#1** | **Backend Core** | `Java` `Spring Boot` `PostgreSQL` `Node.js` | 92% | `DIAMOND` |
-| **#2** | **Frontend & UI** | `Next.js` `React` `TypeScript` `TailwindCSS` | 85% | `PLATINUM` |
-| **#3** | **DevOps & Linux** | `Docker` `Linux` `Nginx` `Jenkins` `Git` | 78% | `GOLD` |
-| **#4** | **Web Standards** | `HTML5` `CSS3` `JavaScript` `REST APIs` | 95% | `MASTER` |
+| **#01** | **Backend Engineering** | `Java` `Spring Boot` `FastAPI` `PostgreSQL` `Node.js` | `[DIAMOND]` | `ACTIVE` |
+| **#02** | **AI & RAG Systems**[cite: 3] | `Ollama` `vLLM` `LangChain` `LangGraph` `ChromaDB`[cite: 1, 3] | `[PLATINUM]` | `ACTIVE` |
+| **#03** | **Frontend Client** | `Next.js 15` `React` `TypeScript` `TailwindCSS` | `[PLATINUM]` | `ACTIVE` |
+| **#04** | **DevOps & Cloud Ops** | `Docker` `Linux` `Nginx` `Jenkins` `Git` | `[GOLD]` | `ONLINE` |
+| **#05** | **Web Architecture** | `REST APIs` `JWT/OAuth2` `HTML5` `CSS3` | `[MASTER]` | `STABLE` |
 
 <br />
 
-#### ⚡ Tech Stack Grid
+#### [+] Tech Stack Matrix
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" alt="Java" />
       <br /><sub><b>Java</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot" />
       <br /><sub><b>Spring Boot</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-      <br /><sub><b>PostgreSQL</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38" height="38" alt="FastAPI" />
+      <br /><sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" />
+      <br /><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" />
+      <br /><sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://ollama.com/public/ollama.png" width="38" height="38" alt="Ollama" />
+      <br /><sub><b>Ollama</b></sub>[cite: 1]
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="38" height="38" alt="LangChain" />
+      <br /><sub><b>LangChain</b></sub>[cite: 3]
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma.png" width="38" height="38" alt="ChromaDB" />
+      <br /><sub><b>ChromaDB</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" />
       <br /><sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" alt="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="38" height="38" alt="TypeScript" />
       <br /><sub><b>TypeScript</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React" />
       <br /><sub><b>React</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="TailwindCSS" />
+      <br /><sub><b>TailwindCSS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" />
       <br /><sub><b>Docker</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" />
       <br /><sub><b>Linux</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://wafris.org/assets/nginx-logo-dd3927d5eb272f9261e3b6cf51243ab41d7a33a702848c63c022c7b58374ae9a.png" height="40" alt="Nginx" />
-      <br /><sub><b>Nginx</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" />
       <br /><sub><b>Git</b></sub>
     </td>
   </tr>
@@ -92,5 +116,5 @@
 ---
 
 <div align="center">
-  <sub>SETEC Institute • KSHRD • Phnom Penh, Cambodia</sub>
+  <sub>SETEC Institute • KSHRD • Phnom Penh, Cambodia</sub>[cite: 1, 2, 3]
 </div>
