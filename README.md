@@ -77,7 +77,7 @@
       <br /><sub><b>LangChain</b></sub>[cite: 3]
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chromadb/chromadb-original.svg" width="38" height="38" alt="ChromaDB" />
+      <img src="https://www.designveloper.com/wp-content/uploads/2025/09/What-is-ChromaDB-1-1024x614.webp" width="38" height="38" style="object-fit: contain;" alt="ChromaDB" />
       <br /><sub><b>ChromaDB</b></sub>
     </td>
     <td align="center" width="96">
