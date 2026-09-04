@@ -116,5 +116,5 @@
 ---
 
 <div align="center">
-  <sub>SETEC Institute • KSHRD • Phnom Penh, Cambodia</sub>[cite: 1, 2, 3]
+  <sub>SETEC Institute • KSHRD • Phnom Penh, Cambodia</sub>
 </div>
