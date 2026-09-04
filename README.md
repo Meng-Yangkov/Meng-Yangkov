@@ -22,10 +22,10 @@
 ---
 
 ### </> About Me
-- 🎓 I’m currently studying MIS at **SETEC INSTITUTE** and undergoing rigorous software training at **KSHRD**.
-- 💻 Shifting focus from Frontend Development towards mastering **Backend Java Engineering**.
-- 🌱 Currently learning **Spring Boot**, Dependency Injection, and Enterprise API Design.
-- 🚀 Let's make CAM great again.
+- I’m currently studying MIS at **SETEC INSTITUTE** and undergoing rigorous software training at **KSHRD**.
+- Shifting focus from Frontend Development towards mastering **Backend Java Engineering**.
+- Currently learning **Spring Boot**, Dependency Injection, and Enterprise API Design.
+- Let's make CAM great again.
 
 ---
 
