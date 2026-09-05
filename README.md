@@ -2,7 +2,7 @@
 
 # Hi, I'm Pheng Mengheak
 
-### Student · Backend Developer · Local AI Enthusiast
+### Backend Developer · Local AI Enthusiast
 
 I design backend systems, scalable APIs, and practical AI-powered applications using
 **Java, Spring Boot, PostgreSQL, Docker, and local LLM technologies.**
